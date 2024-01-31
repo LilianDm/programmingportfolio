@@ -1,1 +1,16 @@
-# programmingportfolio
+# Lilian Dmitrieva's Programming Portfolio 2023-24
+Skyline High School Computer Programming 1-2
+
+## USOE Certifications
+
+## Group Projects(2023-24)
+
+## Individual Projects (2023-24)
+
+
+### SpaceGame
+OOP Graphical Game with sound and keyboard/mouse/numberpad listeners.
+
+![Gameplay]()
+
+[Source Code]()

@@ -18,7 +18,7 @@ OOP Graphical Game with sound and keyboard/mouse/numberpad listeners.
 ### Calculator
 OOP Graphical Game with sound and keyboard/mouse/numberpad listeners.
 
-![Gameplay]()
+![Gameplay](https://github.com/LilianDm/programmingportfolio/blob/main/images/calc.png?raw=true)
 
 [Source Code](https://github.com/LilianDm/programmingportfolio/blob/main/src/CalcKeyboard.zip)
 

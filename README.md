@@ -2,7 +2,7 @@
 Skyline High School Computer Programming 1-2
 
 ## USOE Certifications
-
+* Web Design
 ## Group Projects(2023-24)
 
 ## Individual Projects (2023-24)
@@ -16,29 +16,29 @@ OOP Graphical Game with sound and keyboard/mouse/numberpad listeners.
 [Source Code](https://github.com/LilianDm/programmingportfolio/blob/main/src/SpaceGame.zip)
 
 ### Calculator
-OOP Graphical Game with sound and keyboard/mouse/numberpad listeners.
+OOP Graphical calculator with keyboard/mouse listeners.
 
 ![Gameplay](https://github.com/LilianDm/programmingportfolio/blob/main/images/calc.png?raw=true)
 
 [Source Code](https://github.com/LilianDm/programmingportfolio/blob/main/src/CalcKeyboard.zip)
 
 ### Zoog
-OOP Graphical Game with sound and keyboard/mouse/numberpad listeners.
+OOP Graphical Game with keyboard/mouse listeners.
 
 ![Gameplay](https://github.com/LilianDm/programmingportfolio/blob/main/images/zg1.png?raw=true)
 
 [Source Code](https://github.com/LilianDm/programmingportfolio/blob/main/src/Zoog.zip)
 
 ### CarGame
-OOP Graphical Game with sound and keyboard/mouse/numberpad listeners.
+OOP Graphical Game with cars that infinitely loop.
 
 ![Gameplay](https://github.com/LilianDm/programmingportfolio/blob/main/images/cg1.png?raw=true)
 
 [Source Code](https://github.com/LilianDm/programmingportfolio/blob/main/src/MakingCars%202.zip)
 
 ### ConversionApp
-OOP Graphical Game with sound and keyboard/mouse/numberpad listeners.
+OOP Graphical Game with mouse listeners and conversion from Celcius and Farenheit.
 
-![Gameplay]()
+![Gameplay](https://github.com/LilianDm/programmingportfolio/blob/main/images/cvapp1.png?raw=true)
 
 [Source Code](https://github.com/LilianDm/programmingportfolio/blob/main/src/ConversionApp.zip)

@@ -13,7 +13,7 @@ OOP Graphical Game with sound and keyboard/mouse/numberpad listeners.
 
 ![Start Screen](https://github.com/LilianDm/programmingportfolio/blob/main/images/sp3.png?raw=true)
 ![Gameplay](https://github.com/LilianDm/programmingportfolio/blob/main/images/sg1.png?raw=true)
-![Game Over]()
+![Game Over](https://github.com/LilianDm/programmingportfolio/blob/main/images/sg2.png?raw=true)
 
 [Source Code for Space Game](https://github.com/LilianDm/programmingportfolio/blob/main/src/SpaceGame.zip)
 

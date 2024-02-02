@@ -37,7 +37,7 @@ OOP Graphical Game with cars that infinitely loop.
 [Source Code](https://github.com/LilianDm/programmingportfolio/blob/main/src/MakingCars%202.zip)
 
 ### ConversionApp
-OOP Graphical Game with mouse listeners and conversion from Celcius and Farenheit.
+OOP Graphical Game with mouse listeners and conversion from Miles and Kilometers.
 
 ![Gameplay](https://github.com/LilianDm/programmingportfolio/blob/main/images/cvapp1.png?raw=true)
 

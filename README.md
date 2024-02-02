@@ -42,3 +42,9 @@ OOP Graphical Game with mouse listeners and conversion from Miles and Kilometers
 ![Gameplay](https://github.com/LilianDm/programmingportfolio/blob/main/images/cvapp1.png?raw=true)
 
 [Source Code for Conversion App](https://github.com/LilianDm/programmingportfolio/blob/main/src/ConversionApp.zip)
+
+### EtchASketch
+OOP Graphical game with keyboard/arrow keys listeners.
+![Gameplay](https://github.com/LilianDm/programmingportfolio/blob/main/images/line-002307.png?raw=true)
+
+[Source Code for Etch-A-Sketch]

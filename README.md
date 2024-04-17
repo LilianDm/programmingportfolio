@@ -21,7 +21,7 @@ OOP Graphical Game with sound and keyboard/mouse/numberpad listeners.
 OOP Graphical Game with sound and keyboard/mouse listeners.
 
 ![Start Screen](https://github.com/LilianDm/programmingportfolio/blob/main/images/hang-Start.gif?raw=true)
-![Gameplay]()
+![Gameplay](https://github.com/LilianDm/programmingportfolio/blob/main/images/LQGameplay.png?raw=true)
 ![Game Over]()
 
 [Source Code for Space Game]()

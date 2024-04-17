@@ -4,9 +4,9 @@ Skyline High School Computer Programming 1-2
 ## USOE Certifications
 * Web Design
 ## Group Projects(2023-24)
-
+### Unus Game
 ## Individual Projects (2023-24)
-
+### Letter Quest
 
 ### SpaceGame
 OOP Graphical Game with sound and keyboard/mouse/numberpad listeners.
@@ -16,6 +16,15 @@ OOP Graphical Game with sound and keyboard/mouse/numberpad listeners.
 ![Game Over](https://github.com/LilianDm/programmingportfolio/blob/main/images/sg2.png?raw=true)
 
 [Source Code for Space Game](https://github.com/LilianDm/programmingportfolio/blob/main/src/SpaceGame.zip)
+
+### LetterQuest
+OOP Graphical Game with sound and keyboard/mouse listeners.
+
+![Start Screen]()
+![Gameplay]()
+![Game Over]()
+
+[Source Code for Space Game]()
 
 ### Calculator
 OOP Graphical calculator with keyboard/mouse listeners.

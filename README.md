@@ -24,7 +24,7 @@ OOP Graphical Game with sound and keyboard/mouse listeners.
 ![Gameplay](https://github.com/LilianDm/programmingportfolio/blob/main/images/LQGameplay.png?raw=true)
 ![Game Over](https://github.com/LilianDm/programmingportfolio/blob/main/images/end_0.png?raw=true)
 
-[Source Code for Space Game]()
+[Source Code for Space Game](https://github.com/LilianDm/programmingportfolio/tree/main/src/LetterQuest)
 
 ### Calculator
 OOP Graphical calculator with keyboard/mouse listeners.

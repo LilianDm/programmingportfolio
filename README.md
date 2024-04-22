@@ -4,9 +4,21 @@ Skyline High School Computer Programming 1-2
 ## USOE Certifications
 * Web Design
 ## Group Projects(2023-24)
-### Unus Game
+### UnusGame
+OOP Graphical Game with mouse listeners and AI to play against.
+
+![Gameplay](https://github.com/LilianDm/programmingportfolio/blob/main/images/newstartscreenAH.png?raw=true)
+
+[Source Code for Unus Game](https://github.com/LilianDm/programmingportfolio/tree/main/src/Unusgood)
 ## Individual Projects (2023-24)
-### Letter Quest
+### LetterQuest
+OOP Graphical Game with sound and keyboard/mouse listeners.
+
+![Start Screen](https://github.com/LilianDm/programmingportfolio/blob/main/images/hang-Start.gif?raw=true)
+![Gameplay](https://github.com/LilianDm/programmingportfolio/blob/main/images/LQGameplay.png?raw=true)
+![Game Over](https://github.com/LilianDm/programmingportfolio/blob/main/images/end_0.png?raw=true)
+
+[Source Code for Space Game](https://github.com/LilianDm/programmingportfolio/tree/main/src/LetterQuest)
 
 ### SpaceGame
 OOP Graphical Game with sound and keyboard/mouse/numberpad listeners.
@@ -16,15 +28,6 @@ OOP Graphical Game with sound and keyboard/mouse/numberpad listeners.
 ![Game Over](https://github.com/LilianDm/programmingportfolio/blob/main/images/sg2.png?raw=true)
 
 [Source Code for Space Game](https://github.com/LilianDm/programmingportfolio/blob/main/src/SpaceGame.zip)
-
-### LetterQuest
-OOP Graphical Game with sound and keyboard/mouse listeners.
-
-![Start Screen](https://github.com/LilianDm/programmingportfolio/blob/main/images/hang-Start.gif?raw=true)
-![Gameplay](https://github.com/LilianDm/programmingportfolio/blob/main/images/LQGameplay.png?raw=true)
-![Game Over](https://github.com/LilianDm/programmingportfolio/blob/main/images/end_0.png?raw=true)
-
-[Source Code for Space Game](https://github.com/LilianDm/programmingportfolio/tree/main/src/LetterQuest)
 
 ### Calculator
 OOP Graphical calculator with keyboard/mouse listeners.
@@ -63,10 +66,3 @@ OOP Graphical game with keyboard/arrow keys listeners.
 ![](https://github.com/LilianDm/programmingportfolio/blob/main/images/line-006367.png?raw=true)
 
 [Source Code for Etch-A-Sketch](https://github.com/LilianDm/programmingportfolio/blob/main/src/EtchASketch.zip)
-
-### UnusGame
-OOP Graphical Game with mouse listeners and AI to play against.
-
-![Gameplay](https://github.com/LilianDm/programmingportfolio/blob/main/images/newstartscreenAH.png?raw=true)
-
-[Source Code for Unus Game](https://github.com/LilianDm/programmingportfolio/tree/main/src/Unusgood)

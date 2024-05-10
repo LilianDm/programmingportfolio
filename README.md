@@ -18,7 +18,7 @@ OOP Graphical Game with sound and keyboard/mouse listeners.
 ![Gameplay](https://github.com/LilianDm/programmingportfolio/blob/main/images/LQGameplay.png?raw=true)
 ![Game Over](https://github.com/LilianDm/programmingportfolio/blob/main/images/end_0.png?raw=true)
 
-[Source Code for Space Game](https://github.com/LilianDm/programmingportfolio/tree/main/src/LetterQuest)
+[Source Code for Letter Quest](https://github.com/LilianDm/programmingportfolio/tree/main/src/LetterQuest)
 
 ### SpaceGame
 OOP Graphical Game with sound and keyboard/mouse/numberpad listeners.

@@ -2,7 +2,7 @@
 Skyline High School Computer Programming 1-2
 
 ## USOE Certifications
-* Web Design
+* 
 ## Group Projects(2023-24)
 ### UnusGame
 OOP Graphical Game with mouse listeners and AI to play against.

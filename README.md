@@ -2,7 +2,7 @@
 Skyline High School Computer Programming 1-2
 
 ## USOE Certifications
-* images/Lilian Dmitrieva_Exploring Computer Science_05092024.pdf
+* [images/Lilian Dmitrieva_Exploring Computer Science_05092024.pdf](https://github.com/LilianDm/programmingportfolio/blob/b8262c5511f517d7f1d8b91b94408c45d8ec0d70/images/Lilian%20Dmitrieva_Exploring%20Computer%20Science_05092024.pdf)
 ## Group Projects(2023-24)
 ### UnusGame
 OOP Graphical Game with mouse listeners and AI to play against.
